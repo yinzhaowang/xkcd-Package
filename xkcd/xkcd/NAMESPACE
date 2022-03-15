@@ -1,7 +1,0 @@
-import(graphics)
-import(stats)
-export(rxkcd)
-export(pxkcd)
-export(dxkcd)
-export(qxkcd)
-
