@@ -1,0 +1,9 @@
+Package: xkcd
+Version: 1.0
+Date: 2022-02-23
+Title: xkcd distribution
+Author: Yinzhao Wang <wan00232@umn.edu>
+Maintainer: Yinzhao Wang <wan00232@umn.edu>
+Depends: R (>= 4.0.1)
+Description: This is a package that compute follwoing of xkcd deistribution density, distribution function, quantile function and random generation for the xkcd distribution.
+License: CC0 
